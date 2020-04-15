@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 import org.jointheleague.graphical.robot.Robot;
 
 public class FourSquare {
-	
+	 
 	// 2. Create a new Robot
 Robot emily = new Robot();
 	void go() {

@@ -32,7 +32,7 @@ public class PentagonCrazy {
 		for (int i = 0; i < 200; i++) 
 			susan.turn(angle + 1);
 			// 11. Turn the robot one more degree
-             
+              
 	}
 
 	// Variations:
