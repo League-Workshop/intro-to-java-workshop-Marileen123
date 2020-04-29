@@ -28,8 +28,8 @@ public class MadlibsOfTheAmazon {
 		// back to the " + place + ".\n Good luck!
 		JOptionPane.showMessageDialog(null,"Fit the user's words into this sentence, and save it in a String:\n"
 			+ "Piranhas are more " + adjective + " during the day, so cross the river at night\n"
-			+"Piranhas are attracted to fresh \" + liquid + \"and will most\n" + 
-			"		// likely take a bite out of your \" + body part + \"if you " + verb + "\n
+			+"Piranhas are attracted to fresh " + liquid + "and will most\n" + 
+			" likely take a bite out of your " + body + "if you " + verb + " \n");
 		// Make a pop-up for the final story. You can use \n to go to the next line
 		
 
